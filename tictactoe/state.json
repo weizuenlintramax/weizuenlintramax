@@ -4,11 +4,11 @@
     "",
     "",
     "",
+    "X",
     "",
     "",
     "",
-    "",
-    ""
+    "O"
   ],
   "stats": {
     "human": 0,
@@ -16,5 +16,8 @@
     "draw": 0
   },
   "last_game": "No games finished yet. Be the first!",
-  "moves": []
+  "moves": [
+    "@weizuenlintramax played \u274c center",
+    "\ud83e\udd16 bot played \u2b55 bottom-right"
+  ]
 }

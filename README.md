@@ -14,8 +14,8 @@
 <div align="center">
   <table>
     <tr><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C0&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C1&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C2&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td></tr>
-    <tr><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C3&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C4&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C5&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td></tr>
-    <tr><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C6&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C7&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C8&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td></tr>
+    <tr><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C3&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td>❌</td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C5&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td></tr>
+    <tr><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C6&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td><a href="https://github.com/weizuenlintramax/weizuenlintramax/issues/new?title=ttt%7Cmove%7C7&body=Just+press+%22Submit+new+issue%22.+No+need+to+write+anything.">⬜</a></td><td>⭕</td></tr>
   </table>
 </div>
 
@@ -24,7 +24,8 @@
 <details>
 <summary>Recent moves</summary>
 
-- No moves yet.
+- 🤖 bot played ⭕ bottom-right
+- @weizuenlintramax played ❌ center
 
 </details>
 <!-- TTT:END -->
