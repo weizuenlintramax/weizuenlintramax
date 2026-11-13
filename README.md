@@ -1,4 +1,4 @@
-# Hi, I'm Wei Zuen 👋
+# Hi Stalker 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weizuenlintramax/weizuenlintramax/output/github-snake-dark.svg" />
