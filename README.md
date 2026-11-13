@@ -1,7 +1,7 @@
 # Hi Stalker 👋
 
 <p align="center">
-  <img alt="ASCII cat typing on a laptop" src="./coding-cat.svg" width="320" />
+  <img alt="Cat typing on a laptop" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
 </p>
 
 <p align="center">
