@@ -1,0 +1,20 @@
+{
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "stats": {
+    "human": 0,
+    "bot": 0,
+    "draw": 0
+  },
+  "last_game": "No games finished yet. Be the first!",
+  "moves": []
+}
